@@ -14,11 +14,14 @@
   
 ## Subtitulo 2
 
-[] Lista de chequeo 1
-[] Lista de chequeo 2
+  - [ ] Lista de chequeo 1
+  - [ ] Lista de chequeo 2
 
-# Subtitulo 3
+## Subtitulo 3
 
   Ecuación:
 
   $$x^2$$
+## Referencias
+
+  [Fancy google](https://www.google.com)
