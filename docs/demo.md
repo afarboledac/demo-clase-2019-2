@@ -21,7 +21,7 @@
 
   Ecuación:
 
-  $$x^2$$
+  $x^2$
 ## Referencias
 
   [Fancy google](https://www.google.com)
